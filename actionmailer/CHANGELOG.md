@@ -1,9 +1,8 @@
-## Rails 4.0.0 (unreleased) ##
+## Rails 6.0.0.alpha (Unreleased) ##
 
-* Allow to set default Action Mailer options via `config.action_mailer.default_options=` *Robert Pankowecki*
+*   Rails 6 requires Ruby 2.4.1 or newer.
 
-* Raise an `ActionView::MissingTemplate` exception when no implicit template could be found. *Damien Mathieu*
+    *Jeremy Daer*
 
-* Asynchronously send messages via the Rails Queue *Brian Cardarella*
 
-Please check [3-2-stable](https://github.com/rails/rails/blob/3-2-stable/actionmailer/CHANGELOG.md) for previous changes.
+Please check [5-2-stable](https://github.com/rails/rails/blob/5-2-stable/actionmailer/CHANGELOG.md) for previous changes.
